@@ -9,11 +9,12 @@
   <title>AdminLTE 3 | Starter</title>
 
   <!-- Font Awesome Icons -->
-  <link rel="stylesheet" href="css/adminlte/all.min.css">
+  <link rel="stylesheet" href="css/adminlte/all.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="css/adminlte/adminlte.min.css">
    <!-- Ionicons -->
-    <link rel="stylesheet" href="css/adminlte/ionicons.min.css">
+  <link rel="stylesheet" href="css/adminlte/ionicons.min.css">
+
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
@@ -262,7 +263,7 @@
 <!-- ./wrapper -->
 
 <!-- REQUIRED SCRIPTS -->
-
+<script src="js/adminlte/all.js"></script>
 <!-- jQuery -->
 <script src="js/adminlte/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
